@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-This is my first repository
+This repository is made to upload the code for 1st task of Prodigy Infotech Internship
